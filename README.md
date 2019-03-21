@@ -1,3 +1,10 @@
+lancer pour recreer le dossier node_modules <br>
+### `npm install`
+puis pour lancer l'application <br>
+### `npm start`
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
